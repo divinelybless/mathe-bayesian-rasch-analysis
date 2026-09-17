@@ -1,0 +1,8 @@
+data/*
+!data/.gitkeep
+mathe_final_outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.nc
+.env
