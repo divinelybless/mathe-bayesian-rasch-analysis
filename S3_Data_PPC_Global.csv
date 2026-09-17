@@ -1,0 +1,6 @@
+metric,value
+overall_accuracy,0.46526449968132566
+item_success_inside_95_interval,1.0
+student_success_inside_95_interval,1.0
+basic_accuracy,0.4522529971062422
+advanced_accuracy,0.5090403337969402
