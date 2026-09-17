@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 *.nc
 .env
+S3_Data_PPC_Student.csv
+**/S3_Data_PPC_Student.csv
