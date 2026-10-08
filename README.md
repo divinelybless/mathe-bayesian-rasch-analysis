@@ -1,6 +1,7 @@
 # MathE hierarchical Bayesian Rasch analysis
 
-Research code and derived analysis tables accompanying Dorcas Attuabea Addo's manuscript, *Beyond Basic and Advanced: Do Lecturer-Assigned Difficulty Levels Reflect Empirical Mathematics Item Difficulty in Higher Education?* (PLOS ONE manuscript PONE-D-26-43811).
+Research code and derived analysis tables accompanying Dorcas Attuabea Addo's manuscript, *Beyond Basic and Advanced: Do Lecturer-Assigned
+Difficulty Levels Reflect Empirical Mathematics Item Difficulty in Higher Education* (PLOS ONE manuscript PONE-D-26-43811).
 
 ## Original data
 
