@@ -4,7 +4,7 @@ Research code and derived analysis tables accompanying Dorcas Attuabea Addo's ma
 
 ## Original data
 
-The original dataset is **not redistributed** here. Obtain *Assessing Mathematics Learning in Higher Education* from the UCI Machine Learning Repository: https://doi.org/10.34620/dadosipb/PW3OWY. Place its CSV at `data/MathE dataset (4).csv`, or change `DATA_PATH` in the notebook. The notebook expects semicolon-delimited CSV text encoded as `cp1252`.
+The original dataset is **not redistributed** here. Obtain *Assessing Mathematics Learning in Higher Education* from the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/1031/dataset%2Bfor%2Bassessing%2Bmathematics%2Blearning%2Bin%2Bhigher%2Beduca?. Place its CSV at `data/MathE dataset.csv`, or change `DATA_PATH` in the notebook. The notebook expects semicolon-delimited CSV text encoded as `cp1252`.
 
 ## Repository contents
 
